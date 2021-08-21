@@ -1,0 +1,40 @@
+/* about image  */
+.main-image img{
+    margin-top: 10px;
+    width: 100%;
+    padding-left: 150px;
+}
+.about{
+    margin-top: 10px;
+    padding-left: 60px;
+    padding-right: 160px;
+}
+.average-margin{
+    padding-top: 20px;
+}
+/* hr tag  */
+hr{
+    border: 1px solid gray;
+}
+.hr-last{
+    border: 3px solid black;
+}
+h1{
+    text-align: center;
+}
+/* main section  */
+section{
+    margin-bottom: 100px;
+}
+/* all h5 tag  */
+h5{
+    padding-left: 100px;
+}
+
+/* price-section  */
+.price-section{
+    display:flex;    
+}
+.discount{
+    margin-bottom: 200px;
+}
